@@ -31,7 +31,7 @@ Collected all the data tables in JSON file from google dataset search.
    Connected all the datasets with based on some defined primary keys such as team and match ids. Also, created some measures, calculated columns and parameters using DAX.
 
 #  Building the Dashboard 
-   Built the Interactive Dashboard in MS Power BI Desktop for data visualization.
+   Built the Interactive Dashboard in MS Power BI Desktop for data visualization. With this dashboard we can analyse the players performance and select top 11 players.
 
 
    
