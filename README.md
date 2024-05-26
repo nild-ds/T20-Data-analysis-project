@@ -33,6 +33,19 @@ Collected all the data tables in JSON file from google dataset search.
 #  Building the Dashboard 
    Built the Interactive Dashboard in MS Power BI Desktop for data visualization.
 
+
+   
+![power bi screen shot](https://github.com/niltut/T20-Data-analysis-project/assets/167008575/76604d30-0ce6-46bf-9e79-95cbdd108d73)
+
+![c2](https://github.com/niltut/T20-Data-analysis-project/assets/167008575/1dd673f5-e222-485b-bdc8-b725628cb88a)
+
+
+![c3](https://github.com/niltut/T20-Data-analysis-project/assets/167008575/a4ca6e76-5931-47bf-918d-c553b0cf4c1c)
+
+
+
+![c4](https://github.com/niltut/T20-Data-analysis-project/assets/167008575/896264a8-15e1-4b8c-8194-ca3940fd2f11)
+
    
  
 
