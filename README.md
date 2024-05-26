@@ -37,7 +37,8 @@ Collected all the data tables in JSON file from google dataset search.
    
 ![power bi screen shot](https://github.com/niltut/T20-Data-analysis-project/assets/167008575/76604d30-0ce6-46bf-9e79-95cbdd108d73)
 
-![c2](https://github.com/niltut/T20-Data-analysis-project/assets/167008575/1dd673f5-e222-485b-bdc8-b725628cb88a)
+![c2](https://github.com/niltut/T20-Data-analysis-project/assets/167008575/0ab9e191-a55a-405f-82a4-45829fb0d6a2)
+
 
 
 ![c3](https://github.com/niltut/T20-Data-analysis-project/assets/167008575/a4ca6e76-5931-47bf-918d-c553b0cf4c1c)
